@@ -1,0 +1,1 @@
+Benchmark Project #4/5 in Responsive Web Design Certification on FreeCodeCamp. After my favorite show, Blue Lock, I Designed and implemented a responsive product landing page showcasing key features using HTML and CSS. The page features a dynamic header with a flexbox layout for optimal navigation. 
